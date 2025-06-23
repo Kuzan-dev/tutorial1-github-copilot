@@ -70,7 +70,7 @@ activities = {
         "participants": []
     },
     "Debate Club": {
-        "description": "Develop public speaking and argumentation skills",
+        "description": "Develop  public speaking and argumentation skills",
         "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
         "max_participants": 14,
         "participants": []
